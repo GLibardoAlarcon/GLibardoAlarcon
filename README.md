@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hola! Mi nombre es Libardo Alarcóm 
+- Tambien conocido como GLibardoAlarcon en Github
+
+# ¿Quien soy?
+Soy Data Analytics 
 
 <!--
 **GLibardoAlarcon/GLibardoAlarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
