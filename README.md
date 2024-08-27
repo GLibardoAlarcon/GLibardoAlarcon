@@ -3,5 +3,8 @@
 
 # ¿Quien soy?
 Soy Data Analytics con habilidades como Business intelligence donde mi faceta es encontrar posibles oportunidades en su negocio.
-my esperincia inicia con la pación por las tecnologías por lo que actualmente me encuentro terminando una carrera como ingeniero de sistemas y termine un Bootcan de Data scientist que me ayudo a desempenarme en muchas de las tecnologías que se actual mente como son Python, Power Bi, MYSQL, SQL, NOSQL
+my esperincia inicia con la pación por las tecnologías por lo que actualmente me encuentro terminando una carrera como ingeniero de sistemas y termine un Bootcan de Data scientist que me ayudo a desempenarme en muchas de las tecnologías que se actual mente como son Python, Power Bi, MYSQL, SQL, NOSQL.
+
+# Aspiraiones 
+Tener un mayor conocimiento de tecnologías como el machine learning para ofrecer un análisis mas precisos que ayuden en la toma de deciciones estratégicas, 
 
