@@ -23,9 +23,11 @@ En el bootcamp de Henry y la ingeniera de sistemas me han permitido adquirir con
 - Sql
 - Power Bi
 - Git
-- FasApi
-**No dudes en contactarme!**
-  Juntos podemos innovar y estar a la vanguardia.
-  Correo: libardoalarcon@gmail.com
+- FasApi <br><br>
+
+**No dudes en contactarme!** <br>
+Juntos podemos innovar y estar a la vanguardia.<br>
+Correo: libardoalarcon@gmail.com <br>
+[LinkedIn](www.linkedin.com/in/libardo-alarcon-b7b8ab237)
 
 
